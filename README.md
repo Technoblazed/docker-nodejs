@@ -1,2 +1,3 @@
-# docker-nodejs
-docker-nodejs
+# Docker-NodeJS
+
+Dockerfile for installing a container with Node pre-installed with dependancies.
